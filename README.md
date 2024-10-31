@@ -60,13 +60,12 @@ Resposta do Modelo:
 
 ## Evidências de Testes
 
-Métricas de Avaliação: BLEU Score, Cosine Similarity, ROUGE-L Score:
+Métricas de Avaliação: Precision e Recall:
 
 
 ![image](https://github.com/user-attachments/assets/65e709c4-1c95-4bdc-8a9a-ecef63a7f6fe)
 
-Métricas de Avaliação: Precision e Recall:
-
+Métricas de Avaliação: BLEU Score, Cosine Similarity, ROUGE-L Score:
 
 ![image](https://github.com/user-attachments/assets/1c50c54c-2692-498c-878e-9101d48a7412)
 
